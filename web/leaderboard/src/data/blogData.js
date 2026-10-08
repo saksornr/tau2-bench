@@ -3,6 +3,11 @@
 // photos are served locally from public/authors/<slug>.jpg.
 
 export const PAPERS = {
+  seataubench: {
+    title: 'SEATauBench: Progressively Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages',
+    href: 'https://arxiv.org/abs/2606.28715v2',
+    venue: 'Findings of EMNLP 2026',
+  },
   tauBench: {
     title: 'τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains',
     href: 'https://arxiv.org/abs/2406.12045',
@@ -31,6 +36,121 @@ export const PAPERS = {
 }
 
 export const AUTHORS = {
+  'my-chiffon-nguyen': {
+    name: 'My Chiffon Nguyen',
+    role: 'SEACrowd',
+    photo: '/community/assets/seataubench/my-chiffon-nguyen.jpg',
+    bio: 'My Chiffon Nguyen is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'aulia-adila': {
+    name: 'Aulia Adila',
+    role: 'SEACrowd; AI Singapore, Nanyang Technological University',
+    photo: '/community/assets/seataubench/aulia-adila.jpg',
+    bio: 'Aulia Adila is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'saksorn-ruangtanusak': {
+    name: 'Saksorn Ruangtanusak',
+    role: 'Researcher at SCBX Group',
+    paperAffiliation: 'SEACrowd; SCB DataX, SCBX Group',
+    photo: '/authors/saksorn-ruangtanusak.jpg',
+    bio: "Saksorn (Harry) Ruangtanusak is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on language agents, agent evaluation, and human-aligned user simulation, including multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration to advance AI research and applications for SCBX Group.",
+    bioSegments: [
+      {
+        "text": "Saksorn (Harry) Ruangtanusak",
+        "href": "https://saksornr.github.io/"
+      },
+      {
+        "text": " is an AI researcher at SCBX Group, working with the "
+      },
+      {
+        "text": "Typhoon",
+        "href": "https://huggingface.co/typhoon-ai"
+      },
+      {
+        "text": " team on language models and AI agents. His research focuses on "
+      },
+      {
+        "text": "language agents, agent evaluation, and human-aligned user simulation",
+        "strong": true
+      },
+      {
+        "text": ", including multilingual agent benchmarking ("
+      },
+      {
+        "text": "SEATauBench",
+        "href": "https://arxiv.org/abs/2606.28715"
+      },
+      {
+        "text": "), behavioral fidelity in simulated personas ("
+      },
+      {
+        "text": "RoleCapBench",
+        "href": "https://arxiv.org/abs/2609.39846"
+      },
+      {
+        "text": "), and efficient tool use ("
+      },
+      {
+        "text": "Talk Less, Call Right",
+        "href": "https://arxiv.org/abs/2509.00482"
+      },
+      {
+        "text": "). Previously, he collaborated with Professor "
+      },
+      {
+        "text": "Michael S. Bernstein",
+        "href": "https://profiles.stanford.edu/michael-bernstein"
+      },
+      {
+        "text": " through the SCBX–Stanford HAI collaboration to advance AI research and applications for SCBX Group."
+      }
+    ],
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'kittiphat-leesombatwathana': {
+    name: 'Kittiphat Leesombatwathana',
+    role: 'SEACrowd; Chulalongkorn University; VISTEC',
+    photo: '/community/assets/seataubench/kittiphat-leesombatwathana.jpg',
+    bio: 'Kittiphat Leesombatwathana is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'vissuta-gunawan-lim': {
+    name: 'Vissuta Gunawan Lim',
+    role: 'SEACrowd; University of Indonesia',
+    photo: '/community/assets/seataubench/vissuta-gunawan-lim.jpg',
+    bio: 'Vissuta Gunawan Lim is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'patomporn-payoungkhamdee': {
+    name: 'Patomporn Payoungkhamdee',
+    role: 'SEACrowd; VISTEC',
+    photo: '/community/assets/seataubench/patomporn-payoungkhamdee.jpg',
+    bio: 'Patomporn Payoungkhamdee is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
+  'samuel-cahyawijaya': {
+    name: 'Samuel Cahyawijaya',
+    role: 'SEACrowd; Cohere',
+    photo: '/community/assets/seataubench/samuel-cahyawijaya.jpg',
+    bio: 'Samuel Cahyawijaya is a co-author of SEATauBench, a SEACrowd collaboration on multilingual tool-agent-user evaluation. Affiliations listed here follow the paper.',
+    paperKeys: ['seataubench'],
+    backHref: '/community',
+    backLabel: 'Community spotlight',
+  },
   'bharath-narasimhan': {
     name: 'Bharath Sivaram Narasimhan',
     role: 'Independent Researcher',
