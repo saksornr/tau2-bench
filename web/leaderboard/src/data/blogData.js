@@ -41,6 +41,15 @@ export const AUTHORS = {
     role: 'AI Researcher at SEACrowd',
     photo: '/community/assets/seataubench/my-chiffon-nguyen.jpg',
     bio: 'My (Chiffon) Nguyen is an AI researcher focused on AI safety, governance, multilingual and multicultural AI, and cooperative agents. She is a Fall 2026 SPAR Fellow and has worked on AI policy simulation and multilingual agent evaluation, including SEATauBench.',
+    bioSegments: [
+      {
+        "text": "My (Chiffon) Nguyen",
+        "href": "https://mychiffonn.com/"
+      },
+      {
+        "text": " is an AI researcher focused on AI safety, governance, multilingual and multicultural AI, and cooperative agents. She is a Fall 2026 SPAR Fellow and has worked on AI policy simulation and multilingual agent evaluation, including SEATauBench."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
@@ -50,6 +59,15 @@ export const AUTHORS = {
     role: 'AI Engineer at AI Singapore',
     photo: '/community/assets/seataubench/aulia-adila.jpg',
     bio: 'Aulia Adila is an AI Engineer at AI Singapore with a master\'s degree in Information Science from JAIST and a bachelor\'s degree in Computer Science from Institut Teknologi Bandung. Her research spans speech processing, speech privacy, deepfake detection, and multilingual agent evaluation.',
+    bioSegments: [
+      {
+        "text": "Aulia Adila",
+        "href": "https://www.linkedin.com/in/aulia-adila/?isSelfProfile=false"
+      },
+      {
+        "text": " is an AI Engineer at AI Singapore with a master's degree in Information Science from JAIST and a bachelor's degree in Computer Science from Institut Teknologi Bandung. Her research spans speech processing, speech privacy, deepfake detection, and multilingual agent evaluation."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
@@ -120,6 +138,15 @@ export const AUTHORS = {
     role: 'Student at VISTEC',
     photo: '/community/assets/seataubench/kittiphat-leesombatwathana.jpg',
     bio: 'Kittiphat Leesombatwathana is a student at VISTEC who previously studied Computer Science at Chulalongkorn University. His research includes multilingual natural language processing, promise verification, and agent evaluation. He co-authored a Best System Paper at SemEval 2025.',
+    bioSegments: [
+      {
+        "text": "Kittiphat Leesombatwathana",
+        "href": "https://www.linkedin.com/in/kittiphat-leesombatwathana-a05170256/?isSelfProfile=false"
+      },
+      {
+        "text": " is a student at VISTEC who previously studied Computer Science at Chulalongkorn University. His research includes multilingual natural language processing, promise verification, and agent evaluation. He co-authored a Best System Paper at SemEval 2025."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
@@ -129,6 +156,15 @@ export const AUTHORS = {
     role: 'Computer Science Undergraduate at University of Indonesia',
     photo: '/community/assets/seataubench/vissuta-gunawan-lim.jpg',
     bio: 'Vissuta Gunawan Lim is a Computer Science undergraduate at the University of Indonesia. His research interests include multilingual agentic evaluation, efficient AI agents, and medical computer vision. He contributes to Southeast Asian LLM benchmarking through SEACrowd and radiology report generation research at MLCV Lab.',
+    bioSegments: [
+      {
+        "text": "Vissuta Gunawan Lim",
+        "href": "https://vissutalim.com/"
+      },
+      {
+        "text": " is a Computer Science undergraduate at the University of Indonesia. His research interests include multilingual agentic evaluation, efficient AI agents, and medical computer vision. He contributes to Southeast Asian LLM benchmarking through SEACrowd and radiology report generation research at MLCV Lab."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
@@ -138,6 +174,15 @@ export const AUTHORS = {
     role: 'PhD Student at VISTEC',
     photo: '/community/assets/seataubench/patomporn-payoungkhamdee.jpg',
     bio: 'Patomporn Payoungkhamdee is a PhD student at VISTEC\'s Natural Language and Representation Lab and a mentor for the SEACrowd Apprentice Program. His research focuses on multilingual distillation, tool-integrated reasoning, and cross-lingual AI, with previous contributions to Thai language models and benchmarks.',
+    bioSegments: [
+      {
+        "text": "Patomporn Payoungkhamdee",
+        "href": "https://calzonelover.github.io/"
+      },
+      {
+        "text": " is a PhD student at VISTEC's Natural Language and Representation Lab and a mentor for the SEACrowd Apprentice Program. His research focuses on multilingual distillation, tool-integrated reasoning, and cross-lingual AI, with previous contributions to Thai language models and benchmarks."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
@@ -147,6 +192,15 @@ export const AUTHORS = {
     role: 'Member of Technical Staff at Cohere',
     photo: '/community/assets/seataubench/samuel-cahyawijaya.jpg',
     bio: 'Samuel Cahyawijaya is a Member of Technical Staff at Cohere and a research leader in Southeast Asian multilingual NLP. His work includes multilingual language modeling, low-resource language resources, and culturally grounded AI evaluation. He mentors researchers through SEACrowd\'s apprenticeship program and contributes to the development of multilingual AI systems.',
+    bioSegments: [
+      {
+        "text": "Samuel Cahyawijaya",
+        "href": "https://samuelcahyawijaya.github.io/"
+      },
+      {
+        "text": " is a Member of Technical Staff at Cohere and a research leader in Southeast Asian multilingual NLP. His work includes multilingual language modeling, low-resource language resources, and culturally grounded AI evaluation. He mentors researchers through SEACrowd's apprenticeship program and contributes to the development of multilingual AI systems."
+      }
+    ],
     paperKeys: ['seataubench'],
     backHref: '/community',
     backLabel: 'Community spotlight',
