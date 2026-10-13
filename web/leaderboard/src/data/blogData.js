@@ -77,57 +77,22 @@ export const AUTHORS = {
     role: 'Researcher at SCBX Group',
     paperAffiliation: 'SEACrowd; SCB DataX, SCBX Group',
     photo: '/authors/saksorn-ruangtanusak.jpg',
-    bio: "Saksorn (Harry) Ruangtanusak is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on language agents, agent evaluation, and human-aligned user simulation, including multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration to advance AI research and applications for SCBX Group.",
+    bio: 'Saksorn (Harry) Ruangtanusak is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on language agents, including agent evaluation, human-aligned user simulation, multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration on the paper “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
     bioSegments: [
       {
-        "text": "Saksorn (Harry) Ruangtanusak",
-        "href": "https://saksornr.github.io/"
+        text: 'Saksorn (Harry) Ruangtanusak',
+        href: 'https://saksornr.github.io/',
       },
       {
-        "text": " is an AI researcher at SCBX Group, working with the "
+        text: ' is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on ',
       },
       {
-        "text": "Typhoon",
-        "href": "https://huggingface.co/typhoon-ai"
+        text: 'language agents',
+        strong: true,
       },
       {
-        "text": " team on language models and AI agents. His research focuses on "
+        text: ', including agent evaluation, human-aligned user simulation, multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration on the paper “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
       },
-      {
-        "text": "language agents, agent evaluation, and human-aligned user simulation",
-        "strong": true
-      },
-      {
-        "text": ", including multilingual agent benchmarking ("
-      },
-      {
-        "text": "SEATauBench",
-        "href": "https://arxiv.org/abs/2606.28715"
-      },
-      {
-        "text": "), behavioral fidelity in simulated personas ("
-      },
-      {
-        "text": "RoleCapBench",
-        "href": "https://arxiv.org/abs/2609.39846"
-      },
-      {
-        "text": "), and efficient tool use ("
-      },
-      {
-        "text": "Talk Less, Call Right",
-        "href": "https://arxiv.org/abs/2509.00482"
-      },
-      {
-        "text": "). Previously, he collaborated with Professor "
-      },
-      {
-        "text": "Michael S. Bernstein",
-        "href": "https://profiles.stanford.edu/michael-bernstein"
-      },
-      {
-        "text": " through the SCBX–Stanford HAI collaboration to advance AI research and applications for SCBX Group."
-      }
     ],
     paperKeys: ['seataubench'],
     backHref: '/community',
