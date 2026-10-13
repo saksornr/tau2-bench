@@ -77,21 +77,21 @@ export const AUTHORS = {
     role: 'Researcher at SCBX Group',
     paperAffiliation: 'SEACrowd; SCB DataX, SCBX Group',
     photo: '/authors/saksorn-ruangtanusak.jpg',
-    bio: 'Saksorn (Harry) Ruangtanusak is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on language agents, including agent evaluation, human-aligned user simulation, multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration on the paper “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
+    bio: 'Saksorn (Harry) Ruangtanusak is an AI researcher at SCBX Group, where he works with the Typhoon team on language models and AI agents. His research focuses on language agents, spanning multilingual agent evaluation (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). He also collaborated with Professor Michael S. Bernstein on human behavioral simulation in “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
     bioSegments: [
       {
         text: 'Saksorn (Harry) Ruangtanusak',
         href: 'https://saksornr.github.io/',
       },
       {
-        text: ' is an AI researcher at SCBX Group, working with the Typhoon team on language models and AI agents. His research focuses on ',
+        text: ' is an AI researcher at SCBX Group, where he works with the Typhoon team on language models and AI agents. His research focuses on ',
       },
       {
         text: 'language agents',
         strong: true,
       },
       {
-        text: ', including agent evaluation, human-aligned user simulation, multilingual agent benchmarking (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). Previously, he collaborated with Professor Michael S. Bernstein through the SCBX–Stanford HAI collaboration on the paper “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
+        text: ', spanning multilingual agent evaluation (SEATauBench), behavioral fidelity in simulated personas (RoleCapBench), and efficient tool use (Talk Less, Call Right). He also collaborated with Professor Michael S. Bernstein on human behavioral simulation in “Can Vision-Language Models Simulate Human Behavioral Responses to Online Advertising Content?”',
       },
     ],
     paperKeys: ['seataubench'],
